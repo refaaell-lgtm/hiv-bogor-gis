@@ -5,6 +5,3 @@ folium
 streamlit-folium
 plotly
 openpyxl
-fiona
-shapely
-pyproj
